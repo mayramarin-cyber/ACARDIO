@@ -1,5 +1,5 @@
 {
-    "winner": "RandomForestCalibrado",
+    "winner": "RandomForest_Light",
     "threshold": 0.5,
     "test_metrics": {
         "accuracy": 1.0,

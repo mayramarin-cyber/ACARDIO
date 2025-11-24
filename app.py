@@ -32,7 +32,7 @@ evaluación clínica profesional**.
 # =====================================================
 # CARGAR MODELO
 # =====================================================
-MODEL_PATH = "Artefactos/v1/pipeline_RF.joblib"
+MODEL_PATH = "Artefactos/v1/pipeline_RF_light.joblib"
 
 @st.cache_resource
 def load_model():

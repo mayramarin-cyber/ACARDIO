@@ -1,0 +1,32 @@
+[
+  {
+    "proba_Con_riesgo": 0.3224147338059862,
+    "pred_num": 0,
+    "pred_label": "Sin_riesgo",
+    "true": 0
+  },
+  {
+    "proba_Con_riesgo": 0.6024982108954395,
+    "pred_num": 1,
+    "pred_label": "Con_riesgo",
+    "true": 0
+  },
+  {
+    "proba_Con_riesgo": 0.2033998437691192,
+    "pred_num": 0,
+    "pred_label": "Sin_riesgo",
+    "true": 0
+  },
+  {
+    "proba_Con_riesgo": 0.2325914618965426,
+    "pred_num": 0,
+    "pred_label": "Sin_riesgo",
+    "true": 1
+  },
+  {
+    "proba_Con_riesgo": 0.3033793695471459,
+    "pred_num": 0,
+    "pred_label": "Sin_riesgo",
+    "true": 1
+  }
+]
