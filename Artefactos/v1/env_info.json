@@ -1,0 +1,7 @@
+{
+  "python": "3.12.12",
+  "sklearn": "1.6.1",
+  "platform": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "random_state": 42,
+  "timestamp": "v1"
+}

@@ -1,0 +1,58 @@
+{
+  "columns": [
+    "id",
+    "age",
+    "gender",
+    "height",
+    "weight",
+    "ap_hi",
+    "ap_lo",
+    "age_years",
+    "cholesterol_Medio",
+    "cholesterol_Normal",
+    "gluc_Muy Elevada",
+    "gluc_Normal",
+    "smoke_No fuma",
+    "alco_No consume alcohol",
+    "active_Inactivo",
+    "BMI"
+  ],
+  "dtypes": {
+    "id": "int64",
+    "age": "int64",
+    "gender": "object",
+    "height": "int64",
+    "weight": "float64",
+    "ap_hi": "int64",
+    "ap_lo": "int64",
+    "age_years": "float64",
+    "cholesterol_Medio": "bool",
+    "cholesterol_Normal": "bool",
+    "gluc_Muy Elevada": "bool",
+    "gluc_Normal": "bool",
+    "smoke_No fuma": "bool",
+    "alco_No consume alcohol": "bool",
+    "active_Inactivo": "bool",
+    "BMI": "float64"
+  },
+  "num_features": [
+    "age_years",
+    "height",
+    "weight",
+    "ap_hi",
+    "ap_lo",
+    "BMI"
+  ],
+  "cat_features": [
+    "id",
+    "age",
+    "gender",
+    "cholesterol_Medio",
+    "cholesterol_Normal",
+    "gluc_Muy Elevada",
+    "gluc_Normal",
+    "smoke_No fuma",
+    "alco_No consume alcohol",
+    "active_Inactivo"
+  ]
+}
